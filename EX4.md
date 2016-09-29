@@ -1,5 +1,4 @@
 #Variables And Names
-***
 * In programming a **variable** is nothing more than **a name for something**.
 
 * The _in space_in_a_car is called an **underscore character**.
