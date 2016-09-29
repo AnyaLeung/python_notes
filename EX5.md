@@ -22,6 +22,8 @@
 * `TypeError: 'str' object is not callable.`
 You probably forgot the % between the string and the list of variables.
 
-*mark:
-Try to write some variables that *convert the inches and pounds to centimeters and kilograms*. Do not just type in the measurements. Work out the math in Python.*
-填了Ex4的坑:D
+*mark*:
+
+* *Try to write some variables that *convert the inches and pounds to centimeters and kilograms*. Do not just type in the measurements. * Work out the math in Python*.
+
+* *填了Ex4的坑:D*
