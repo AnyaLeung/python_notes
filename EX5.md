@@ -19,9 +19,9 @@
 
 * **use the round()** function like this: round(1.7333).
 
-* `TypeError: 'str' object is not callable.`
+* `TypeError: 'str' object is not callable.`</br>
 may forgot the `%` between the string and the list of variables.
 
 *mark*:
 
-* *Try to write some variables that *convert the inches and pounds to centimeters and kilograms*. Do not just type in the measurements. * Work out the math in Python*.
+* *Try to write some variables that convert the inches and pounds to centimeters and kilograms. Work out the math in Python*.
