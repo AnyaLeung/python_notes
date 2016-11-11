@@ -1,3 +1,5 @@
+#1110_3的另一種方法
+
 num = int(input('enter an int:'))
 m = 1
 
