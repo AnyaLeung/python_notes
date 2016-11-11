@@ -4,7 +4,7 @@ num = int(input('enter an int:'))
 m = 1
 
 while m <= num:
-    if m % 2 == 0:
+    if m % 2 == 1:
         print('*', end = "")
 
     if m % 2 == 0:
